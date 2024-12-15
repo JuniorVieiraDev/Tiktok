@@ -1,3 +1,5 @@
+Coloque no head do seu site
+
 <meta name="description" content="descrição do seu site">
     Mantenha entre 150-160 caracteres para evitar truncamentos nos resultados de busca.
 
