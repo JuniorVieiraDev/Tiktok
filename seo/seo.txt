@@ -1,0 +1,22 @@
+<meta name="description" content="descrição do seu site">
+    Mantenha entre 150-160 caracteres para evitar truncamentos nos resultados de busca.
+
+<meta name="keywords" content="palavras-chave do seu nicho">
+    O Google não dá muita importância às meta keywords, mas outros buscadores ainda podem utilizá-las. Não exagere na quantidade de palavras-chave.
+
+<link rel="canonical" href="https://seudominio.com">
+    Essa tag ajuda a evitar problemas de conteúdo duplicado.
+
+<meta name="robots" content="index, follow">
+    Define que os mecanismos de busca devem indexar e seguir os links da página.
+
+<title>Nome | Nicho</title>
+    Mantenha o título entre 50-60 caracteres e inclua palavras-chave relevantes.
+
+Bônus
+
+(H1, H2, H3): Use uma hierarquia para os cabeçalhos para ajudar os motores de busca a entender o conteúdo.
+
+Sitemap XML: Gere e submeta um sitemap para o Google Search Console.
+
+Arquivo robots.txt: Certifique-se de ter um robots.txt configurado corretamente para controlar o rastreamento dos bots.
